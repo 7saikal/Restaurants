@@ -9,6 +9,9 @@
             "c/bookAppointment": [
                 "bookAppointment/bookAppointment.js"
             ],
+            "c/examCalculator": [
+                "examCalculator/examCalculator.js"
+            ],
             "c/nearestRestaurants": [
                 "nearestRestaurants/nearestRestaurants.js"
             ],
